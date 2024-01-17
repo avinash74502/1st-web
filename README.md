@@ -109,12 +109,6 @@
         .yt{
             background-image: linear-gradient(135deg, #ff0000, #ff0000);
         }
-        
-        nav ul li a:focus section{
-            margin-top: 25px;
-        }
-        /* Dark mode styles */
-        
         body.dark-mode {
             background-color: #333;
             color: #fff;
